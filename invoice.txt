@@ -1,0 +1,12 @@
+INVOICE
+
+Customer Name: nmnm
+Customer City: mnmnm
+Restaurant Name: bbnbn
+Restaurant City: vbbvbv
+
+Meal Details:
+Name: ghghhg
+Price: 70.0
+Quantity: 1
+Total Amount: 70.0
